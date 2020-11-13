@@ -1,0 +1,21 @@
+.spendingDot {
+  height: 10px;
+  width: 10px;
+  background-color: #428dfc;
+  border-radius: 50%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.incomeDot {
+  height: 10px;
+  width: 10px;
+  background-color: #0ce381;
+  border-radius: 50%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.line {
+  float: left;
+}
